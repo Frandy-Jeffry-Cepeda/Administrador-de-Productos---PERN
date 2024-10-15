@@ -10,3 +10,4 @@ server/coverage/lcov-report/prettify.css
 server/coverage/lcov-report/prettify.js
 server/coverage/lcov-report/sort-arrow-sprite.png
 server/coverage/lcov-report/sorter.js
+client/.env
