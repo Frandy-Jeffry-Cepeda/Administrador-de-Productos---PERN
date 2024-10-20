@@ -59,7 +59,7 @@ export default function EditProduct() {
 
       <Form
         className="mt-10"
-        method='PUT'     
+        method='PUT'    
       >
         <div className="mb-4">
             <label
